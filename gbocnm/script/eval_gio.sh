@@ -1,0 +1,2 @@
+python train.py --config-path config/activitynet/c3d_feature.json --resume checkpoints/activitynet/c3d/model-best.pt --eval;
+python train.py --config-path config/activitynet/c3d_feature.json --resume checkpoints/activitynet/c3d/model-best.pt --eval --use-gio --gio-lambdas 0.938,0.938,1;
