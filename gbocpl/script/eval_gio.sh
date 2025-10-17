@@ -1,0 +1,2 @@
+python train.py --config-path config/activitynet/main.json --resume checkpoints/activitynet/model-best.pt --eval;
+python train.py --config-path config/activitynet/main.json --resume checkpoints/activitynet/model-best.pt --eval --use-gio --gio-lambdas 0.909,0.909,1;
