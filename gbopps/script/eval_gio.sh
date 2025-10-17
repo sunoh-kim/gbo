@@ -1,0 +1,2 @@
+python train.py --config-path config/activitynet/config_refact.json --ckpt-path checkpoint/activitynet/model_refact.pt --eval --top1-str iou_losssum
+python train.py --config-path config/activitynet/config_refact.json --ckpt-path checkpoint/activitynet/model_refact.pt --eval --top1-str iou_losssum --use-gio --gio-lambdas 0.904,0.904,1
