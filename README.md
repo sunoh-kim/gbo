@@ -60,3 +60,15 @@ https://github.com/minghangz/cpl
 https://github.com/minghangz/cnm
 
 
+## 📖 Citation
+
+If you find this repository useful, please consider citing our work
+
+```bibtex
+@article{kim2026gbo,
+  title   = {Finding Optimal Video Moment without Training: Gaussian Boundary Optimization for Weakly Supervised Video Grounding},
+  author  = {Kim, Sunoh and Yun, Kimin and Um, Daeho},
+  journal = {IEEE Transactions on Multimedia},
+  year    = {2026}
+}
+
