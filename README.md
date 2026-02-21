@@ -73,8 +73,4 @@ If you find this repository useful, please consider citing our work
   journal = {IEEE Transactions on Multimedia},
   year    = {2026}
 }
-
-
-
-
-
+```
