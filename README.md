@@ -1,6 +1,8 @@
 # Official Implementation for Gaussian Boundary Optimization
 
-This repository contains the source code and visualization results associated with our paper on Gaussian Boundary Optimization (GBO) for weakly supervised video grounding.
+This repository contains the source code and visualization results associated with our paper:
+**"Finding Optimal Video Moment without Training: Gaussian Boundary Optimization for Weakly Supervised Video Grounding"** (IEEE Transactions on Multimedia, 2026).  
+The full paper is available on: [https://www.arxiv.org/abs/2602.03071](https://www.arxiv.org/abs/2602.03071)
 
 ![framework](./image/framework.png)
 
@@ -71,4 +73,5 @@ If you find this repository useful, please consider citing our work
   journal = {IEEE Transactions on Multimedia},
   year    = {2026}
 }
+
 
